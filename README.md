@@ -1,6 +1,5 @@
 # Welcome to Cursors Repo!
-
-## Find your likings from the cursors packs, and install with a click.
+Find your likings from the cursors packs, and install with a click.
 
 # Installation Steps:
 - Download the repo, by clicking on the link here --> [Download the cursor packs](https://github.com/ChaitanyaKumarS2403/cursors/archive/refs/heads/main.zip).
