@@ -2,7 +2,7 @@
 Find your likings from the cursors packs, and install with a click.
 Follow the [installation steps](#installation-steps) to get started.
 
-
+![banner](https://github.com/ChaitanyaKumarS2403/imgHost/blob/main/cursors/cursors_banner.png)
 
 # Installation Steps:
 - Download the repo, by clicking on the link here --> [Download the cursor packs](https://github.com/ChaitanyaKumarS2403/cursors/archive/refs/heads/main.zip).
