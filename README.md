@@ -1,10 +1,10 @@
-# Welcome to Cursors Repo!
+# <img src="https://cdn-icons-png.flaticon.com/512/8369/8369108.png" height="24"> Welcome to Cursors Repo!
 Find your likings from the cursors packs, and install with a click.
 Follow the [installation steps](#installation-steps) to get started.
 
 ![banner](https://github.com/ChaitanyaKumarS2403/imgHost/blob/main/cursors/cursors_banner.png)
 
-# Installation Steps:
+# <img src="https://cdn-icons-png.flaticon.com/512/1077/1077198.png" height="24"> Installation Steps:
 - Download the repo, by clicking on the link here --> [Download the cursor packs](https://github.com/ChaitanyaKumarS2403/cursors/archive/refs/heads/main.zip).
 - Unzip/Extract the `.zip` & head-up to the choice of cursor pack.
 - Dig into the desired mode (Dark/Light) in the cursor pack & look for a file that is named as `Install.inf`.
