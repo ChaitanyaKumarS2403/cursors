@@ -4,7 +4,7 @@ Follow the [installation steps](#installation-steps) to get started.
 
 Click on the **Banner** to get the packs!
 <a href="https://github.com/ChaitanyaKumarS2403/cursors/archive/refs/heads/main.zip">
-  <img src="https://github.com/ChaitanyaKumarS2403/imgHost/blob/main/cursors/cursors_poster.png">
+  <img src="https://github.com/ChaitanyaKumarS2403/assets/blob/main/projects_repo/cursors/cursors_poster.png">
 </a>
 
 # <img src="https://cdn-icons-png.flaticon.com/512/1077/1077198.png" height="24"> Installation Steps:
