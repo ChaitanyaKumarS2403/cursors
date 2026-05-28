@@ -1,28 +1,28 @@
 # <img src="https://cdn-icons-png.flaticon.com/512/8369/8369108.png" height="24"> Welcome to Cursors Repo!
 
-<a href="https://github.com/ChaitanyaKumarS2403/cursors/archive/refs/heads/main.zip">
-  <img src="https://github.com/ChaitanyaKumarS2403/assets/blob/main/projects_repo/cursors/cursors_poster.png">
+<a href="https://github.com/chaitanyakumar-ReDSeC/cursors/archive/refs/heads/main.zip">
+  <img src="https://github.com/chaitanyakumar-ReDSeC/assets/blob/main/projects_repo/cursors/cursors_poster.png">
 </a>
 
 Credits : **Chaitanya Kumar Sathivada**
 
-<a href="https://github.com/ChaitanyaKumarS2403">
-  <img src="https://github.com/ChaitanyaKumarS2403/assets/raw/main/projects_repo/Misc/github_profile.png" alt="GitHub" height=50>
+<a href="https://github.com/chaitanyakumar-ReDSeC">
+  <img src="https://github.com/chaitanyakumar-ReDSeC/assets/raw/main/projects_repo/Misc/github_profile.png" alt="GitHub" height=50>
 </a>
 <a href="https://www.linkedin.com/in/chaitanya-kumar-sathivada/">
-  <img src="https://github.com/ChaitanyaKumarS2403/assets/raw/main/projects_repo/Misc/linkedin_profile.png" alt="LinkedIn" height=50>
+  <img src="https://github.com/chaitanyakumar-ReDSeC/assets/raw/main/projects_repo/Misc/linkedin_profile.png" alt="LinkedIn" height=50>
 </a>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+  <img src="https://github.com/chaitanyakumar-ReDSeC/assets/blob/main/general/image_assets/rainbow.png" width="100%">
 </p>
 
 # <img src="https://cdn-icons-png.flaticon.com/512/1077/1077198.png" height="24"> Installation Steps:
 
 Click on the **Button** below to get the packs!
 
-<a href="https://github.com/ChaitanyaKumarS2403/cursors/archive/refs/heads/main.zip">
-  <img src="https://github.com/ChaitanyaKumarS2403/assets/raw/main/projects_repo/Misc/DownloadNow.png" alt="LinkedIn" height=50>
+<a href="https://github.com/chaitanyakumar-ReDSeC/cursors/archive/refs/heads/main.zip">
+  <img src="https://github.com/chaitanyakumar-ReDSeC/assets/raw/main/projects_repo/Misc/DownloadNow.png" alt="LinkedIn" height=50>
 </a>
 
 1. Download the repo, by clicking on the `Download Button` above.
