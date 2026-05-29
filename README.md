@@ -1,7 +1,7 @@
 # <img src="https://cdn-icons-png.flaticon.com/512/8369/8369108.png" height="24"> Welcome to Cursors Repo!
 
 <a href="https://github.com/chaitanyakumar-ReDSeC/cursors/archive/refs/heads/main.zip">
-  <img src="https://github.com/chaitanyakumar-ReDSeC/assets/blob/main/projects_repo/cursors/cursors_poster.png">
+  <img src="https://github.com/chaitanyakumar-ReDSeC/assets/raw/main/projects_repo/cursors/cursors_poster.png">
 </a>
 
 Credits : **Chaitanya Kumar Sathivada**
@@ -14,7 +14,7 @@ Credits : **Chaitanya Kumar Sathivada**
 </a>
 
 <p align="center">
-  <img src="https://github.com/chaitanyakumar-ReDSeC/assets/blob/main/general/image_assets/rainbow.png" width="100%">
+  <img src="https://github.com/chaitanyakumar-ReDSeC/assets/raw/main/general/image_assets/rainbow.png" width="100%">
 </p>
 
 # <img src="https://cdn-icons-png.flaticon.com/512/1077/1077198.png" height="24"> Installation Steps:
