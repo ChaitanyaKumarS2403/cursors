@@ -14,7 +14,7 @@ Credits : **Chaitanya Kumar Sathivada**
 </a>
 
 <p align="center">
-  <img src="https://github.com/chaitanyakumar-ReDSeC/assets/raw/main/general/image_assets/rainbow.png" width="100%">
+  <img src="https://github.com/chaitanyakumar-ReDSeC/assets/raw/main/general/image_assets/static/rainbow.png" width="100%">
 </p>
 
 # <img src="https://cdn-icons-png.flaticon.com/512/1077/1077198.png" height="24"> Installation Steps:
